@@ -63,6 +63,7 @@
 			echo "<p>age: $age</p>";
 			echo "<p>height in metre: $height_metre <br/></p>" ;
 			echo"<p>height in feet and inches:$height ft and $remaining_height in</p><br/>";
+			echo "git test";
 			?>
 
 
